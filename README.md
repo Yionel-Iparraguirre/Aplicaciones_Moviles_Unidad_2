@@ -19,6 +19,19 @@ https://github.com/Yionel-Iparraguirre/AppSemanaIngenieriaUNS
 
 ## ✅ Semana 08
 ## USO DE LOS 3 MENUS EXPLICADOS EN CLASE (MenuWebView)
+desarrollar aplicacion (tema libre) que tenga:
+* con un menu(cualquiera de los 3 de clase o los 3 seria bueno)
+* que sea de un mismo tema
+
+## Link del repositorio
+https://github.com/Yionel-Iparraguirre/AppClinicaMenus
+
+#Capturas de la App
+![Image](https://github.com/user-attachments/assets/c16c2674-88a2-46dd-bb17-cad4f07ec9f5)
+
+![Image](https://github.com/user-attachments/assets/fdb08733-a979-4bd9-9aad-3660707228a1)
+
+![Image](https://github.com/user-attachments/assets/7c7ee49c-5090-4ab4-9416-4cb0894b2683)
 
 ## ✅ Semana 09
 ## ACTIVIDAD DE SharedPreferences
