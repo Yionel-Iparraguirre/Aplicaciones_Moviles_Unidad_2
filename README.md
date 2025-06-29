@@ -35,3 +35,22 @@ https://github.com/Yionel-Iparraguirre/AppClinicaMenus
 
 ## ✅ Semana 09
 ## ACTIVIDAD DE SharedPreferences
+TAREA - SharedPreferences:
+1. Contador de visitas:
+ - Contar cuantas veces se ha abierto la app.
+ - Botón para resetear el contador
+2. En la misma App, crear una nueva activity para crear un perfil de Usuario.
+ Campos: nombre, edad, email.
+ Botón guardar y cargar
+ Guardar datos en SharedPreferences
+3. Modo Oscuro/Claro:
+ Agregar un Switch en el layout con texto "Modo Oscuro", al cambiar ese switch guardar la preferencia inmediatamente. El tema debe cambiar en tiempo real. 
+ - Modo Claro: Fondo clanco, texto negro
+ - Modo Oscuro: Fondo gris con texto blanco.
+
+## Link del repositorio
+https://github.com/Yionel-Iparraguirre/ActividadSharedPreferences
+#Capturas de la App
+![Image](https://github.com/user-attachments/assets/e50bbb68-fdbb-4aa1-b86c-58fef24fe1bd)
+
+![Image](https://github.com/user-attachments/assets/bd90e388-5b91-4f5c-9d5e-5e2d308f0f5e)
