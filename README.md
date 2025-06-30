@@ -26,7 +26,7 @@ desarrollar aplicacion (tema libre) que tenga:
 ## Link del repositorio
 https://github.com/Yionel-Iparraguirre/AppClinicaMenus
 
-#Capturas de la App
+# Capturas de la App
 ![Image](https://github.com/user-attachments/assets/c16c2674-88a2-46dd-bb17-cad4f07ec9f5)
 
 ![Image](https://github.com/user-attachments/assets/fdb08733-a979-4bd9-9aad-3660707228a1)
@@ -50,7 +50,7 @@ TAREA - SharedPreferences:
 
 ## Link del repositorio
 https://github.com/Yionel-Iparraguirre/ActividadSharedPreferences
-#Capturas de la App
+# Capturas de la App
 ![Image](https://github.com/user-attachments/assets/e50bbb68-fdbb-4aa1-b86c-58fef24fe1bd)
 
 ![Image](https://github.com/user-attachments/assets/bd90e388-5b91-4f5c-9d5e-5e2d308f0f5e)
@@ -66,5 +66,5 @@ Ahora que tienes la autenticación Firebase funcionando, vamos a crear un sistem
 
 ## Link del repositorio
 
-#Capturas de la App
+# Capturas de la App
 
