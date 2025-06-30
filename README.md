@@ -54,3 +54,17 @@ https://github.com/Yionel-Iparraguirre/ActividadSharedPreferences
 ![Image](https://github.com/user-attachments/assets/e50bbb68-fdbb-4aa1-b86c-58fef24fe1bd)
 
 ![Image](https://github.com/user-attachments/assets/bd90e388-5b91-4f5c-9d5e-5e2d308f0f5e)
+
+## ✅ Semana 10
+Ahora que tienes la autenticación Firebase funcionando, vamos a crear un sistema completo de registro de juegos usando Firebase Realtime Database. Los usuarios podrán:
+
+✅ Registrar nuevos juegos con información detallada
+✅ Ver lista de juegos registrados en tiempo real
+✅ Editar y eliminar sus propios juegos
+✅ Filtrar juegos por categoría y rating
+✅ Sincronización automática con Firebase
+
+## Link del repositorio
+
+#Capturas de la App
+
