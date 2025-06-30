@@ -65,6 +65,7 @@ Ahora que tienes la autenticación Firebase funcionando, vamos a crear un sistem
 ✅ Sincronización automática con Firebase
 
 ## Link del repositorio
+https://github.com/Yionel-Iparraguirre/app_zone_app
 
 # Capturas de la App
 
